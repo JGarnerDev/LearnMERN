@@ -1,18 +1,3 @@
--------------------- Foreword --------------------
-
-    We're going to build a full-stack app.
-
-    To achieve this objective - as it is with many things in life and in code - we learn most by doing. In doing, we must be inquisitive, be wholly present, and understand our mistakes as invaluable events and information of learning (rather that evaluations of ourselves). Doing new things, especially if they are a manifestation of our current talents put on for display, is scary. 
-
-    While I love talking about this specific issue, this isn't exactly the place, so I'll be brief; understand that being scared is both an emotion and a part of the greater you. 
-
-    As an emotion, it effects our mentality, but it is our mentality that effects our actions. Appreciate the distance between your emotions and your actions, as it is entirely possible for you to ride a bike while sad, cook food while purturbed, or make an app while doubtful. 
-
-    As all emotions are a part of the greater you, we have the ability to manage them as we manage our lives. Rather than suggesting that you 'turn off the scared', I'm saying that you appreciate it fully - that it is "over there and I'm over here". Appreciate all parts of you, but know where they stand with relation to your goals. If you can, indulge in the feelings that add to your experience while managing the feelings that detract from it as a scientist would observe an object of study. The rest is the discipline of doing regardless of "-". 
-
-    Keep peddaling, keep cooking, keep coding. 
-
-    Armchair philosophy is a comfortable oportunity for me to procrastinate. Let's make an app. 
 
 -------------------- This Lesson --------------------     
 
@@ -79,9 +64,9 @@
 
     3. Thanks
 
-        Mom, Dad, and my sister Laura. A supportive, patient, and loving family is a treasure that everyone deserves. 
+        Mom, Dad, and my sister Laura!
 
-        To Miguel, a best friend for 90% of my lifetime and a front end web developer who has the remarkable talent to discern what my coding           difficulties are before I can properly articulate them. Also the guy that introduced me to web development. 
+        To Miguel, a best friend for 90% of my lifetime and a front end web developer who has the remarkable talent to discern what my coding difficulties are before I can properly articulate them. Also the guy that introduced me to web development. 
         
                                             Check out his work on http://miguelis.me/ !  
 
